@@ -1,5 +1,9 @@
 import './css/homepage.css'
 
+import GithubLogo from '../public/github-mark.svg'
+import LinkedInLogo from '../public/LinkedIn_icon.svg'
+import ItchLogo from '../public/itchio-textless-white.svg'
+
 function Home() {
   return (
     <>
@@ -38,17 +42,17 @@ function Home() {
       </div>
       <br></br>
       <div className='links'>
-        &nbsp;
+        <h3>Links</h3>
         <div>
-          <img></img>
+          <img className='websiteIcon' src={GithubLogo}></img>&nbsp;
           <a href='https://github.com/Jokimax'>https://github.com/Jokimax</a>
         </div>
         <div>
-          <img></img>
+          <img className='websiteIcon' src={LinkedInLogo}></img>&nbsp;
           <a href='https://www.linkedin.com/in/jonas-zilys-337477253/'>https://www.linkedin.com/in/jonas-zilys-337477253/</a>
         </div>
         <div>
-          <img></img>
+          <img className='websiteIcon' src={ItchLogo}></img>&nbsp;
           <a href='https://jokimax.itch.io/'>https://jokimax.itch.io/</a>
         </div>
       </div>

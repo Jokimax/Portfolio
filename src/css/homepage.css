@@ -51,7 +51,11 @@
 }
 
 .links > div{
-    margin-top: 5vh;
+    margin-top: 3vh;
+}
+
+.websiteIcon{
+    height: 25px;
 }
 
 @media screen and (max-width: 540px) {
