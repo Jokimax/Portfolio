@@ -41,15 +41,15 @@ function Home() {
         &nbsp;
         <div>
           <img></img>
-          <a>Github</a>
+          <a href='https://github.com/Jokimax'>https://github.com/Jokimax</a>
         </div>
         <div>
           <img></img>
-          <a>Linked In</a>
+          <a href='https://www.linkedin.com/in/jonas-zilys-337477253/'>https://www.linkedin.com/in/jonas-zilys-337477253/</a>
         </div>
         <div>
           <img></img>
-          <a>Itch.io</a>
+          <a href='https://jokimax.itch.io/'>https://jokimax.itch.io/</a>
         </div>
       </div>
     </>

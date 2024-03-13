@@ -5,7 +5,7 @@ import "./css/pageBase.css"
 function PageBase() {
     return (
       <>
-        <img className="repoLink" src={GithubLogo}></img>
+        <img onClick={() => location.href = "https://github.com/Jokimax/Portfolio"} className="repoLink" src={GithubLogo}></img>
         <Outlet />
       </>
     )
