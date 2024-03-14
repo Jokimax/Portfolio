@@ -26,19 +26,23 @@ function Home() {
       <br></br>
       <div className='project'>
         <div className='projectName'>Test</div>
-        <p className='projectDescription'></p>
+        <p className='projectDescription'>dsadsasadsad</p>
+        <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
       <div className='project'>
         <div className='projectName'>Test</div>
         <p className='projectDescription'></p>
+        <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
       <div className='project'>
         <div className='projectName'>Test</div>
         <p className='projectDescription'></p>
+        <div className='projectLinks'></div>
       </div>
       <div className='project'>
         <div className='projectName'>Test</div>
         <p className='projectDescription'></p>
+        <div className='projectLinks'></div>
       </div>
       <br></br>
       <div className='links'>
