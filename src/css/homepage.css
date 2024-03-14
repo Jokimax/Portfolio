@@ -40,23 +40,22 @@
     color: black;
     overflow: auto;
     font-size: 20px;
+    overflow: scroll;
     width: 98%;
-    height: 35vh;
+    height: 30vh;
 }
 
 .projectLinks{
-    direction: rtl;
-    bottom: 2%;
-    right: 2%;
-    height: 15%;
-    position: absolute;
+    text-align: center;
+    height: 7vh;
+    width: 100%;
+    background-color: black;
 }
 
 .projectLinks > img{
     background-color: black;
+    margin-left: 10px;
     height: 100%;
-    border-right: 5px solid black;
-    border-left: 5px solid black;
 }
 
 .links{
@@ -81,7 +80,6 @@
         position:relative;
         background-color: white;
         display: inline-block;
-        overflow: scroll;
         margin-top: 25px;
         width: 80%;
         margin-left: 10%;
@@ -119,7 +117,6 @@
         position:relative;
         background-color: white;
         display: inline-block;
-        overflow: scroll;
         margin-top: 25px;
         width: 40%;
         margin-left: 5%;
