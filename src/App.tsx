@@ -2,6 +2,7 @@ import {createBrowserRouter, RouterProvider} from "react-router-dom"
 import PageBase from "./pageBase"
 import Home from './homepage'
 import PrivacyPolicy from "./privacyPolicy"
+import Error404 from "./404"
 
 function App() {
   const router = createBrowserRouter([
@@ -15,6 +16,10 @@ function App() {
         {
           path: "/simplydodge/privacyPolicy",
           element: <PrivacyPolicy />,
+        },
+        {
+          path: "*",
+          element: <Error404 />,
         },
       ],
     },
