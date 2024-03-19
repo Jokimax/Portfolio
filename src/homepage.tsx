@@ -26,7 +26,13 @@ function Home() {
       <br></br>
       <div className='project'>
         <div className='projectName'>Test</div>
-        <p className='projectDescription'>dsadsasadsad</p>
+        <p className='projectDescription'>TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn </p>
         <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
       <div className='project'>
