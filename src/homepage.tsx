@@ -24,8 +24,8 @@ function Home() {
         </div>
       </div>
       <br></br>
-      <div className='project'>
-        <div className='projectName'>Test</div>
+      <div className='project' style={{bottom: "-220px"}}>
+        <div className='projectName' style={{backgroundColor: "#f70c0c"}}>Test</div>
         <p className='projectDescription'>TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
             osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
             osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
@@ -35,20 +35,38 @@ function Home() {
             osflkjlsfajnsafjn </p>
         <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
-      <div className='project'>
-        <div className='projectName'>Test</div>
-        <p className='projectDescription'></p>
-        <div className='projectLinks'><img src={LinkedInLogo}></img><img src={LinkedInLogo}></img></div>
+      <div className='project' style={{bottom: "-265px"}}>
+        <div className='projectName' style={{backgroundColor: "#034efc"}}>Test</div>
+        <p className='projectDescription'>TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn </p>
+        <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
-      <div className='project'>
-        <div className='projectName'>Test</div>
-        <p className='projectDescription'></p>
-        <div className='projectLinks'></div>
+      <div className='project' style={{bottom: "-310px"}}>
+        <div className='projectName' style={{backgroundColor: "green"}}>Test</div>
+        <p className='projectDescription'>TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn </p>
+        <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
-      <div className='project'>
-        <div className='projectName'>Test</div>
-        <p className='projectDescription'></p>
-        <div className='projectLinks'></div>
+      <div className='project' style={{bottom: "-355px"}}>
+        <div className='projectName' style={{backgroundColor: "#4e355e"}}>Test</div>
+        <p className='projectDescription'>TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn TODO: Add bio fsaguifsahofsaafi safjksafjks afjksfjfsaji knkafsafuhsafj ihnsafnksafkns fnklsfknfjksafnsak fjksafnksafsafsaf sauiiusafsfajn
+            osflkjlsfajnsafjn </p>
+        <div className='projectLinks'><img src={GithubLogo}></img><img src={GithubLogo}></img></div>
       </div>
       <br></br>
       <div className='links'>
