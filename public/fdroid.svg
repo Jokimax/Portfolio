@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 192 192"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="fdroid.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.005"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <path
+     stroke="#000000"
+     stroke-width="12"
+     d="M34 102c0-8.837 7.163-16 16-16h92c8.837 0 16 7.163 16 16v52c0 8.837-7.163 16-16 16H50c-8.837 0-16-7.163-16-16v-52Zm0-48c0-8.837 7.163-16 16-16h92c8.837 0 16 7.163 16 16v16c0 8.837-7.163 16-16 16H50c-8.837 0-16-7.163-16-16V54Z"
+     id="path1"
+     style="stroke:#ffffff" />
+  <path
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="12"
+     d="M36 40 22 22m134 18 14-18"
+     id="path2"
+     style="fill:#ffffff;stroke:#ffffff" />
+  <circle
+     cx="66"
+     cy="62"
+     r="9.5"
+     fill="#000000"
+     id="circle2"
+     style="stroke:#ffffff;fill:#ffffff" />
+  <circle
+     cx="66"
+     cy="62"
+     r="9.5"
+     stroke="#000000"
+     id="circle3" />
+  <circle
+     cx="66"
+     cy="62"
+     r="9.5"
+     stroke="#000000"
+     stroke-opacity=".2"
+     id="circle4" />
+  <circle
+     cx="126"
+     cy="62"
+     r="9.5"
+     fill="#000000"
+     id="circle5"
+     style="fill:#ffffff" />
+  <circle
+     cx="126"
+     cy="62"
+     r="9.5"
+     stroke="#000000"
+     id="circle6" />
+  <circle
+     cx="126"
+     cy="62"
+     r="9.5"
+     stroke="#000000"
+     stroke-opacity=".2"
+     id="circle7" />
+  <path
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="12"
+     d="m 78.682,140.931 a 21.994,21.994 0 0 0 24.596,7.992 21.997,21.997 0 0 0 0,-41.846 21.994,21.994 0 0 0 -24.596,7.992"
+     id="path7"
+     style="fill:none;stroke:#ffffff" />
+</svg>
