@@ -81,18 +81,9 @@ function Home() {
       <br></br>
       <div className='links'>
         <h3>Links</h3>
-        <div>
-          <img className='websiteIcon' src={GithubLogo}></img>&nbsp;
-          <a href='https://github.com/Jokimax'>https://github.com/Jokimax</a>
-        </div>
-        <div>
-          <img className='websiteIcon' src={LinkedInLogo}></img>&nbsp;
-          <a href='https://www.linkedin.com/in/jonas-zilys-337477253/'>https://www.linkedin.com/in/jonas-zilys-337477253/</a>
-        </div>
-        <div>
-          <img className='websiteIcon' src={ItchLogo}></img>&nbsp;
-          <a href='https://jokimax.itch.io/'>https://jokimax.itch.io/</a>
-        </div>
+          <img className='websiteIcon' src={GithubLogo} onClick={() => window.location.href = "https://jokimax.itch.io/roguetype"}></img>&nbsp;
+          <img className='websiteIcon' src={LinkedInLogo} onClick={() => window.location.href = "https://www.linkedin.com/in/jonas-zilys-337477253/"}></img>&nbsp;
+          <img className='websiteIcon' src={ItchLogo} onClick={() => window.location.href = "https://jokimax.itch.io/"}></img>&nbsp;
       </div>
     </div>
   )
